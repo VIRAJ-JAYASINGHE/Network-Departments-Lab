@@ -9,7 +9,7 @@ This Packet Tracer lab demonstrates VLAN configuration and inter-department comm
 💻 2 PCs per department
 
 🔗 Trunk port between Switch and Router for inter-VLAN communication
-
+ 
 🟢 VLAN Configuration
 VLAN ID	Name	Ports
 10	IT	Fa0/1, Fa0/2
